@@ -1,2 +1,2 @@
-# ext4-win-parser
-ext4 filesystem reader for windows
+# ext4-parser
+cross platform ext4 filesystem parser
