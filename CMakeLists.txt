@@ -13,7 +13,7 @@ endif()
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-add_executable(ext4-parser src/main.cpp)
+add_executable(ext4-parser src/main.cpp src/ext4_parser.cpp)
 
 target_include_directories(ext4-parser PRIVATE include)
 
